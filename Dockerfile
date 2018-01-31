@@ -29,8 +29,10 @@ RUN yum update -y && \
           nginx \
           openssl-devel \
           patch \
+          python-dev \
           rsync \
           supervisor \
+          unzip \
           wget
 
 # Install Alfresco
