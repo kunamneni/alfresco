@@ -11,6 +11,7 @@ RUN yum update -y && \
           cairo \
           cups-libs \
           curl \
+          crontab \
           dos2unix \
           fontconfig \
           fuse \
