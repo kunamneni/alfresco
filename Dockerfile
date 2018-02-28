@@ -18,6 +18,7 @@ RUN yum update -y && \
           fuse-devel \
           gcc-c++ \
           git \
+          inotify-tools \
           libcurl-devel \
           libICE \
           libSM \
